@@ -1,0 +1,10 @@
+ApiVersion v1
+kind ConfigMap
+metadata
+  name env-config
+data
+  APP_MSG: ejemplo de configuracion externkind ConfigMap
+  metadata
+    name env-config
+  data
+    APP_MSG: ejemplo de configuracion externa
